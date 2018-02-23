@@ -13,3 +13,8 @@ function forLoop(arrayS) {
 
   return arrayS;
 }
+
+
+function whileLoop(num) {
+  
+}
