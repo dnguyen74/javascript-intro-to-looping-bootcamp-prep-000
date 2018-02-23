@@ -16,5 +16,8 @@ function forLoop(arrayS) {
 
 
 function whileLoop(num) {
-  
+  while countdown > 0 {
+    
+  }
+  return 'done';
 }
